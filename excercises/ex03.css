@@ -1,0 +1,43 @@
+.test-div
+{
+    background: yellowgreen;
+    padding: 20px;
+    margin: 20px;
+}
+/*way1 of changing the color of h2 in divs*/
+.test-div h2
+{
+    color: rgb(179, 3, 227);
+}
+
+/*way2 of changing the color of h2 in divs*/
+/*
+div h2
+{
+    color: aqua;
+}
+    */
+
+.test-div:hover
+{
+    background: rgb(179, 239, 207);
+}
+
+/*ways of changing the color of the button classed special*/
+/*way1*/
+button.special
+{
+    background-color: yellow;
+}
+
+/*way2
+.test-div.special
+{
+    background-color: yellow;
+}
+*/
+
+h1, h2
+{
+    text-decoration: underline;
+}
