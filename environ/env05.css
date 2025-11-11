@@ -1,0 +1,106 @@
+.FirstParagraph
+{
+    background: rgba(178, 180, 182, 0.463); 
+    color: rgb(255, 255, 255);
+}
+
+.LastParagraph
+{
+    background: rgba(178, 180, 182, 0.462); 
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    color: rgb(195, 255, 224);
+}
+
+#slugcats01
+{
+    height: 500;
+}
+
+img:hover
+{    
+    border: 5px double rgba(255, 255, 255, 0.781);
+}
+
+
+#SpearmasterNeedleThrow
+{
+    height: 100;
+}
+
+.IntroToLizards
+{
+    background: rgba(178, 180, 182, 0.462); 
+    color: rgb(255, 255, 255);
+}
+
+#GreenLiz
+{
+    background-color: rgba(240, 248, 255, 0.34);
+}
+
+.IntroToGliz
+{
+    background: rgba(178, 180, 182, 0.462); 
+    color: rgb(13, 255, 0);
+    font-family:cursive;
+    font-size: x-small;
+}
+
+
+
+#RedLiz
+{
+    background-color: rgba(240, 248, 255, 0.34);
+}
+
+.IntroToRliz
+{
+    background: rgba(178, 180, 182, 0.462); 
+    color: rgb(250, 28, 28);
+    font-family:cursive;
+    font-size: x-small;
+}
+
+
+
+#WhiteLiz
+{
+    background-color: rgba(240, 248, 255, 0.34);
+}
+
+.IntroToWliz
+{
+    background: rgba(178, 180, 182, 0.462); 
+    color: rgb(255, 255, 255);
+    font-family:cursive;
+    font-size: x-small;
+}
+
+#SurvivorSleepScreenLayer
+{
+    height: 20px;
+}
+
+#SurvivorSleepScreenLayer2
+{
+    height: 20px;
+}
+
+
+
+.WhatsComing
+{
+    background: rgba(178, 180, 182, 0.337); 
+    color: rgb(219, 100, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+footer p
+{
+    background: rgba(178, 180, 182, 0.463); 
+    color: rgb(255, 255, 255);
+}
