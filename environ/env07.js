@@ -243,7 +243,7 @@ $("#WaitingForEating").click(
 );
 
 
-//make slugwalk float and bounce//
+//Make Slugwalk Float And Bounce//
 $(function () {
     var $slugwalk = $("#Slugwalk");
     $slugwalk.css("position", "absolute");
@@ -282,7 +282,7 @@ $(function () {
         PositionX += speed * DirectionX;
         PositionY += speed * DirectionY;
 
-        //fit to window
+        //fit to window if user resizes
         MaxX = $(window).width() - $slugwalk.width();
         MaxY = $(window).height() - $slugwalk.height();
 
